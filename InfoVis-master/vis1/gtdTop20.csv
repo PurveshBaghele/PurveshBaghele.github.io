@@ -1,0 +1,981 @@
+date,name,value
+01-01-70,United States,468
+01-01-70,Uruguay,33
+01-01-70,Argentina,21
+01-01-70,West Germany (FRG),20
+01-01-70,East Germany (GDR),12
+01-01-70,Turkey,12
+01-01-70,United Kingdom,12
+01-01-70,Philippines,10
+01-01-70,Jordan,9
+01-01-70,Brazil,6
+01-01-70,Iran,5
+01-01-70,Guatemala,4
+01-01-70,Spain,4
+01-01-70,Ethiopia,3
+01-01-70,Greece,3
+01-01-70,Italy,3
+01-01-70,Netherlands,3
+01-01-70,Switzerland,3
+01-01-70,Canada,2
+01-01-70,Dominican Republic,2
+01-01-71,United States,247
+01-01-71,United Kingdom,81
+01-01-71,Turkey,35
+01-01-71,Spain,22
+01-01-71,West Germany (FRG),13
+01-01-71,Iran,11
+01-01-71,Uruguay,8
+01-01-71,Argentina,7
+01-01-71,Jordan,5
+01-01-71,East Germany (GDR),4
+01-01-71,Philippines,4
+01-01-71,Venezuela,4
+01-01-71,Brazil,3
+01-01-71,Dominican Republic,3
+01-01-71,Italy,3
+01-01-71,Bolivia,2
+01-01-71,Cambodia,2
+01-01-71,Sweden,2
+01-01-71,Australia,1
+01-01-71,Costa Rica,1
+01-01-72,United Kingdom,292
+01-01-72,United States,68
+01-01-72,West Germany (FRG),24
+01-01-72,Argentina,20
+01-01-72,Spain,19
+01-01-72,Iran,15
+01-01-72,Israel,15
+01-01-72,France,11
+01-01-72,Turkey,9
+01-01-72,Australia,8
+01-01-72,Austria,7
+01-01-72,Jordan,7
+01-01-72,Philippines,7
+01-01-72,Uruguay,7
+01-01-72,Brunei,5
+01-01-72,Ireland,5
+01-01-72,Belgium,4
+01-01-72,Canada,4
+01-01-72,Italy,4
+01-01-72,Brazil,3
+01-01-73,United Kingdom,189
+01-01-73,Argentina,60
+01-01-73,United States,58
+01-01-73,West Germany (FRG),27
+01-01-73,Spain,21
+01-01-73,Italy,15
+01-01-73,France,14
+01-01-73,Greece,11
+01-01-73,Lebanon,11
+01-01-73,Chile,7
+01-01-73,Colombia,6
+01-01-73,Mexico,6
+01-01-73,Iran,4
+01-01-73,Venezuela,4
+01-01-73,Cyprus,3
+01-01-73,Dominican Republic,3
+01-01-73,Ireland,3
+01-01-73,Peru,3
+01-01-73,Austria,2
+01-01-73,Brazil,2
+01-01-74,United Kingdom,203
+01-01-74,United States,94
+01-01-74,Argentina,71
+01-01-74,France,29
+01-01-74,West Germany (FRG),28
+01-01-74,Italy,22
+01-01-74,Mexico,16
+01-01-74,Spain,14
+01-01-74,Israel,12
+01-01-74,Iran,11
+01-01-74,Lebanon,11
+01-01-74,Greece,6
+01-01-74,Belgium,5
+01-01-74,Ethiopia,4
+01-01-74,Syria,4
+01-01-74,Ecuador,3
+01-01-74,El Salvador,3
+01-01-74,Ireland,3
+01-01-74,Japan,3
+01-01-74,Peru,3
+01-01-75,United Kingdom,194
+01-01-75,United States,149
+01-01-75,Spain,136
+01-01-75,France,39
+01-01-75,Argentina,38
+01-01-75,West Germany (FRG),35
+01-01-75,Lebanon,15
+01-01-75,Iran,13
+01-01-75,Japan,12
+01-01-75,Colombia,10
+01-01-75,Mexico,10
+01-01-75,Turkey,10
+01-01-75,Ireland,7
+01-01-75,Italy,7
+01-01-75,Guatemala,5
+01-01-75,Venezuela,5
+01-01-75,Ethiopia,4
+01-01-75,Greece,4
+01-01-75,Kenya,4
+01-01-75,Netherlands,4
+01-01-76,United Kingdom,194
+01-01-76,Italy,173
+01-01-76,United States,105
+01-01-76,France,58
+01-01-76,Argentina,54
+01-01-76,Spain,50
+01-01-76,West Germany (FRG),50
+01-01-76,Turkey,35
+01-01-76,Colombia,22
+01-01-76,Greece,21
+01-01-76,Mexico,20
+01-01-76,Portugal,15
+01-01-76,El Salvador,13
+01-01-76,Guatemala,13
+01-01-76,Costa Rica,12
+01-01-76,Philippines,10
+01-01-76,Brazil,5
+01-01-76,Ethiopia,5
+01-01-76,Ireland,5
+01-01-76,Austria,4
+01-01-77,Italy,308
+01-01-77,Turkey,189
+01-01-77,Spain,147
+01-01-77,United Kingdom,140
+01-01-77,United States,130
+01-01-77,Colombia,80
+01-01-77,France,53
+01-01-77,Greece,47
+01-01-77,West Germany (FRG),40
+01-01-77,Mexico,19
+01-01-77,Argentina,17
+01-01-77,Portugal,15
+01-01-77,South Africa,15
+01-01-77,Guatemala,8
+01-01-77,Ecuador,7
+01-01-77,Chile,6
+01-01-77,El Salvador,6
+01-01-77,Israel,6
+01-01-77,Netherlands,6
+01-01-77,Austria,5
+01-01-78,Italy,277
+01-01-78,Spain,209
+01-01-78,Colombia,158
+01-01-78,United Kingdom,100
+01-01-78,El Salvador,91
+01-01-78,United States,87
+01-01-78,Nicaragua,76
+01-01-78,France,59
+01-01-78,Turkey,52
+01-01-78,Greece,39
+01-01-78,Philippines,36
+01-01-78,Japan,35
+01-01-78,Mexico,30
+01-01-78,Guatemala,29
+01-01-78,Iran,27
+01-01-78,Argentina,25
+01-01-78,Israel,23
+01-01-78,Rhodesia,19
+01-01-78,West Germany (FRG),19
+01-01-78,Lebanon,12
+01-01-79,El Salvador,326
+01-01-79,Spain,279
+01-01-79,United Kingdom,239
+01-01-79,France,212
+01-01-79,Italy,209
+01-01-79,Nicaragua,206
+01-01-79,Turkey,141
+01-01-79,Colombia,140
+01-01-79,Israel,129
+01-01-79,Iran,82
+01-01-79,United States,69
+01-01-79,Guatemala,60
+01-01-79,Rhodesia,51
+01-01-79,Philippines,50
+01-01-79,Chile,49
+01-01-79,Lebanon,38
+01-01-79,Namibia,31
+01-01-79,Syria,28
+01-01-79,West Bank and Gaza Strip,23
+01-01-79,India,20
+01-01-80,El Salvador,710
+01-01-80,Guatemala,281
+01-01-80,Spain,187
+01-01-80,Colombia,141
+01-01-80,United Kingdom,134
+01-01-80,Italy,110
+01-01-80,Turkey,95
+01-01-80,France,94
+01-01-80,Lebanon,86
+01-01-80,Israel,77
+01-01-80,Iran,67
+01-01-80,United States,67
+01-01-80,Peru,64
+01-01-80,Philippines,60
+01-01-80,West Bank and Gaza Strip,58
+01-01-80,Chile,41
+01-01-80,Bolivia,35
+01-01-80,Nicaragua,35
+01-01-80,Syria,33
+01-01-80,Thailand,26
+01-01-81,El Salvador,664
+01-01-81,Guatemala,399
+01-01-81,Colombia,172
+01-01-81,Peru,149
+01-01-81,United Kingdom,142
+01-01-81,Iran,108
+01-01-81,Spain,107
+01-01-81,Lebanon,81
+01-01-81,United States,74
+01-01-81,Italy,69
+01-01-81,France,66
+01-01-81,Nicaragua,47
+01-01-81,South Africa,42
+01-01-81,Syria,41
+01-01-81,Chile,34
+01-01-81,Israel,32
+01-01-81,Philippines,31
+01-01-81,West Germany (FRG),31
+01-01-81,Uganda,25
+01-01-81,West Bank and Gaza Strip,21
+01-01-82,El Salvador,537
+01-01-82,Guatemala,354
+01-01-82,Peru,350
+01-01-82,Colombia,222
+01-01-82,Spain,146
+01-01-82,Lebanon,120
+01-01-82,United Kingdom,95
+01-01-82,United States,78
+01-01-82,Nicaragua,63
+01-01-82,France,62
+01-01-82,West Bank and Gaza Strip,56
+01-01-82,Israel,54
+01-01-82,Philippines,38
+01-01-82,Honduras,34
+01-01-82,West Germany (FRG),29
+01-01-82,Bolivia,27
+01-01-82,Iran,26
+01-01-82,South Africa,26
+01-01-82,Italy,23
+01-01-82,Chile,21
+01-01-83,Peru,536
+01-01-83,El Salvador,371
+01-01-83,Nicaragua,299
+01-01-83,Colombia,234
+01-01-83,Lebanon,234
+01-01-83,United Kingdom,177
+01-01-83,Spain,122
+01-01-83,France,121
+01-01-83,Guatemala,117
+01-01-83,Chile,106
+01-01-83,South Africa,56
+01-01-83,India,47
+01-01-83,United States,44
+01-01-83,West Bank and Gaza Strip,39
+01-01-83,Honduras,29
+01-01-83,Bolivia,27
+01-01-83,Israel,26
+01-01-83,Argentina,18
+01-01-83,Guadeloupe,17
+01-01-83,Philippines,16
+01-01-84,Peru,592
+01-01-84,Chile,563
+01-01-84,Nicaragua,302
+01-01-84,El Salvador,273
+01-01-84,Colombia,237
+01-01-84,Lebanon,166
+01-01-84,India,159
+01-01-84,France,145
+01-01-84,United Kingdom,145
+01-01-84,Spain,143
+01-01-84,Sri Lanka,81
+01-01-84,Guatemala,74
+01-01-84,United States,63
+01-01-84,South Africa,60
+01-01-84,Argentina,46
+01-01-84,Philippines,43
+01-01-84,West Bank and Gaza Strip,31
+01-01-84,Greece,28
+01-01-84,Ecuador,24
+01-01-84,Namibia,24
+01-01-85,El Salvador,436
+01-01-85,Colombia,382
+01-01-85,Peru,352
+01-01-85,Nicaragua,258
+01-01-85,Chile,232
+01-01-85,Philippines,124
+01-01-85,Spain,114
+01-01-85,Sri Lanka,110
+01-01-85,France,106
+01-01-85,South Africa,106
+01-01-85,Lebanon,95
+01-01-85,United Kingdom,67
+01-01-85,Guatemala,63
+01-01-85,West Germany (FRG),53
+01-01-85,Argentina,43
+01-01-85,United States,40
+01-01-85,India,39
+01-01-85,Greece,35
+01-01-85,Belgium,21
+01-01-85,Portugal,20
+01-01-86,Peru,568
+01-01-86,Colombia,307
+01-01-86,Chile,243
+01-01-86,El Salvador,175
+01-01-86,Nicaragua,171
+01-01-86,South Africa,159
+01-01-86,Sri Lanka,142
+01-01-86,Spain,125
+01-01-86,Lebanon,106
+01-01-86,India,96
+01-01-86,France,95
+01-01-86,United Kingdom,95
+01-01-86,Philippines,80
+01-01-86,United States,49
+01-01-86,Israel,47
+01-01-86,West Germany (FRG),46
+01-01-86,Greece,41
+01-01-86,Argentina,33
+01-01-86,Guatemala,31
+01-01-86,Pakistan,24
+01-01-87,Peru,627
+01-01-87,Colombia,337
+01-01-87,El Salvador,234
+01-01-87,Nicaragua,223
+01-01-87,Chile,173
+01-01-87,India,166
+01-01-87,Philippines,160
+01-01-87,South Africa,133
+01-01-87,United Kingdom,117
+01-01-87,Sri Lanka,115
+01-01-87,Spain,104
+01-01-87,Lebanon,94
+01-01-87,France,87
+01-01-87,Argentina,80
+01-01-87,Pakistan,60
+01-01-87,Guatemala,56
+01-01-87,Turkey,43
+01-01-87,United States,34
+01-01-87,Greece,26
+01-01-87,Ireland,24
+01-01-88,Colombia,427
+01-01-88,El Salvador,367
+01-01-88,India,358
+01-01-88,Peru,355
+01-01-88,Sri Lanka,350
+01-01-88,South Africa,245
+01-01-88,Philippines,210
+01-01-88,Chile,185
+01-01-88,United Kingdom,180
+01-01-88,Spain,151
+01-01-88,Lebanon,125
+01-01-88,Nicaragua,62
+01-01-88,France,54
+01-01-88,Pakistan,44
+01-01-88,Turkey,42
+01-01-88,Greece,38
+01-01-88,Bangladesh,36
+01-01-88,Argentina,33
+01-01-88,Israel,32
+01-01-88,Guatemala,29
+01-01-89,Peru,630
+01-01-89,Sri Lanka,510
+01-01-89,Colombia,492
+01-01-89,El Salvador,356
+01-01-89,India,324
+01-01-89,United Kingdom,163
+01-01-89,Philippines,156
+01-01-89,South Africa,149
+01-01-89,Chile,146
+01-01-89,Spain,142
+01-01-89,Lebanon,141
+01-01-89,Turkey,114
+01-01-89,West Bank and Gaza Strip,113
+01-01-89,Guatemala,79
+01-01-89,Israel,74
+01-01-89,Mozambique,64
+01-01-89,Greece,50
+01-01-89,Pakistan,45
+01-01-89,United States,42
+01-01-89,Bolivia,40
+01-01-90,Peru,495
+01-01-90,Colombia,349
+01-01-90,India,349
+01-01-90,Philippines,320
+01-01-90,Angola,205
+01-01-90,Turkey,195
+01-01-90,El Salvador,184
+01-01-90,Chile,161
+01-01-90,South Africa,154
+01-01-90,United Kingdom,147
+01-01-90,Sri Lanka,141
+01-01-90,Spain,113
+01-01-90,West Bank and Gaza Strip,105
+01-01-90,Japan,93
+01-01-90,Pakistan,87
+01-01-90,Lebanon,84
+01-01-90,Guatemala,83
+01-01-90,Israel,81
+01-01-90,Greece,55
+01-01-90,Soviet Union,36
+01-01-91,Peru,658
+01-01-91,El Salvador,500
+01-01-91,Colombia,420
+01-01-91,India,339
+01-01-91,Turkey,293
+01-01-91,United Kingdom,262
+01-01-91,Philippines,162
+01-01-91,Pakistan,150
+01-01-91,France,137
+01-01-91,Chile,127
+01-01-91,South Africa,127
+01-01-91,Sri Lanka,115
+01-01-91,West Bank and Gaza Strip,94
+01-01-91,Lebanon,91
+01-01-91,Spain,89
+01-01-91,Nicaragua,80
+01-01-91,Guatemala,77
+01-01-91,Germany,65
+01-01-91,Greece,57
+01-01-91,Israel,53
+01-01-92,Colombia,523
+01-01-92,Turkey,514
+01-01-92,Peru,383
+01-01-92,United Kingdom,274
+01-01-92,South Africa,271
+01-01-92,India,237
+01-01-92,Algeria,215
+01-01-92,Philippines,162
+01-01-92,Germany,156
+01-01-92,West Bank and Gaza Strip,139
+01-01-92,France,126
+01-01-92,Chile,116
+01-01-92,Sri Lanka,103
+01-01-92,Lebanon,91
+01-01-92,Pakistan,85
+01-01-92,Egypt,79
+01-01-92,Bangladesh,76
+01-01-92,Spain,72
+01-01-92,Cambodia,67
+01-01-92,Israel,58
+01-01-93,United Kingdom,129
+01-01-93,Egypt,49
+01-01-93,India,42
+01-01-93,Peru,42
+01-01-93,Germany,37
+01-01-93,United States,37
+01-01-93,Lebanon,36
+01-01-93,West Bank and Gaza Strip,36
+01-01-93,Cambodia,33
+01-01-93,Turkey,29
+01-01-93,Algeria,23
+01-01-93,Somalia,23
+01-01-93,Colombia,21
+01-01-93,Israel,21
+01-01-93,South Africa,18
+01-01-93,Spain,14
+01-01-93,Chile,13
+01-01-93,France,12
+01-01-93,Austria,11
+01-01-93,Italy,10
+01-01-94,Turkey,300
+01-01-94,United Kingdom,256
+01-01-94,Algeria,227
+01-01-94,Colombia,201
+01-01-94,West Bank and Gaza Strip,179
+01-01-94,South Africa,174
+01-01-94,Pakistan,154
+01-01-94,Egypt,143
+01-01-94,India,107
+01-01-94,France,97
+01-01-94,Peru,91
+01-01-94,Guatemala,84
+01-01-94,Germany,79
+01-01-94,Philippines,72
+01-01-94,Bangladesh,68
+01-01-94,Lebanon,67
+01-01-94,Somalia,57
+01-01-94,Spain,55
+01-01-94,United States,55
+01-01-94,Russia,47
+01-01-95,Pakistan,666
+01-01-95,Algeria,185
+01-01-95,India,179
+01-01-95,Germany,147
+01-01-95,Turkey,133
+01-01-95,Sri Lanka,126
+01-01-95,Colombia,123
+01-01-95,Egypt,102
+01-01-95,Burundi,83
+01-01-95,Guatemala,82
+01-01-95,Bangladesh,74
+01-01-95,France,71
+01-01-95,West Bank and Gaza Strip,68
+01-01-95,Philippines,63
+01-01-95,United States,60
+01-01-95,Cambodia,56
+01-01-95,Peru,44
+01-01-95,Spain,44
+01-01-95,Lebanon,38
+01-01-95,Russia,37
+01-01-96,Colombia,409
+01-01-96,France,270
+01-01-96,India,213
+01-01-96,Pakistan,180
+01-01-96,Sri Lanka,176
+01-01-96,Bangladesh,161
+01-01-96,Algeria,129
+01-01-96,Mexico,75
+01-01-96,Russia,66
+01-01-96,Indonesia,65
+01-01-96,Spain,63
+01-01-96,China,62
+01-01-96,Philippines,61
+01-01-96,Turkey,54
+01-01-96,Germany,52
+01-01-96,Egypt,51
+01-01-96,South Africa,47
+01-01-96,Peru,42
+01-01-96,Lebanon,39
+01-01-96,United Kingdom,36
+01-01-97,Colombia,598
+01-01-97,Algeria,344
+01-01-97,Pakistan,206
+01-01-97,India,193
+01-01-97,France,130
+01-01-97,Mexico,95
+01-01-97,Spain,86
+01-01-97,Burundi,79
+01-01-97,United Kingdom,78
+01-01-97,Russia,77
+01-01-97,Sri Lanka,64
+01-01-97,Peru,58
+01-01-97,Philippines,57
+01-01-97,Lebanon,46
+01-01-97,Turkey,44
+01-01-97,Bosnia-Herzegovina,42
+01-01-97,United States,42
+01-01-97,Albania,41
+01-01-97,Venezuela,41
+01-01-97,Tajikistan,40
+01-01-98,Algeria,151
+01-01-98,Colombia,94
+01-01-98,United Kingdom,63
+01-01-98,India,61
+01-01-98,Yugoslavia,46
+01-01-98,Pakistan,37
+01-01-98,Sri Lanka,35
+01-01-98,United States,31
+01-01-98,Greece,28
+01-01-98,Russia,26
+01-01-98,Lebanon,23
+01-01-98,Turkey,23
+01-01-98,Angola,20
+01-01-98,Philippines,18
+01-01-98,Uganda,18
+01-01-98,Spain,17
+01-01-98,West Bank and Gaza Strip,14
+01-01-98,Burundi,13
+01-01-98,France,12
+01-01-98,Georgia,12
+01-01-99,Colombia,116
+01-01-99,India,112
+01-01-99,Turkey,109
+01-01-99,Algeria,106
+01-01-99,United Kingdom,76
+01-01-99,Indonesia,60
+01-01-99,Russia,54
+01-01-99,United States,53
+01-01-99,Spain,47
+01-01-99,France,46
+01-01-99,Sri Lanka,46
+01-01-99,Lebanon,42
+01-01-99,Kosovo,39
+01-01-99,Pakistan,39
+01-01-99,Greece,35
+01-01-99,Angola,34
+01-01-99,Philippines,31
+01-01-99,Yugoslavia,23
+01-01-99,Uganda,19
+01-01-99,Nigeria,18
+01-01-00,India,180
+01-01-00,Algeria,138
+01-01-00,Russia,138
+01-01-00,Colombia,137
+01-01-00,Philippines,132
+01-01-00,Spain,112
+01-01-00,Indonesia,101
+01-01-00,Sri Lanka,68
+01-01-00,United Kingdom,61
+01-01-00,Kosovo,60
+01-01-00,Pakistan,49
+01-01-00,United States,42
+01-01-00,Turkey,35
+01-01-00,West Bank and Gaza Strip,30
+01-01-00,France,28
+01-01-00,Greece,28
+01-01-00,Sierra Leone,24
+01-01-00,Bangladesh,23
+01-01-00,Nepal,23
+01-01-00,Angola,22
+01-01-01,India,234
+01-01-01,Colombia,207
+01-01-01,Russia,135
+01-01-01,West Bank and Gaza Strip,132
+01-01-01,Algeria,113
+01-01-01,Indonesia,106
+01-01-01,United Kingdom,94
+01-01-01,Spain,79
+01-01-01,Israel,70
+01-01-01,Macedonia,67
+01-01-01,Pakistan,53
+01-01-01,Philippines,50
+01-01-01,United States,47
+01-01-01,Angola,40
+01-01-01,Burundi,37
+01-01-01,Sri Lanka,36
+01-01-01,Nepal,33
+01-01-01,Uganda,24
+01-01-01,France,21
+01-01-01,Yugoslavia,20
+01-01-02,India,184
+01-01-02,Colombia,150
+01-01-02,Algeria,132
+01-01-02,Russia,89
+01-01-02,West Bank and Gaza Strip,89
+01-01-02,Israel,72
+01-01-02,Nepal,58
+01-01-02,Philippines,48
+01-01-02,Pakistan,46
+01-01-02,Indonesia,43
+01-01-02,Spain,41
+01-01-02,Afghanistan,38
+01-01-02,United States,33
+01-01-02,France,32
+01-01-02,Uganda,24
+01-01-02,United Kingdom,21
+01-01-02,Burundi,18
+01-01-02,Sudan,13
+01-01-02,Thailand,12
+01-01-02,Greece,11
+01-01-03,India,196
+01-01-03,Philippines,107
+01-01-03,Iraq,102
+01-01-03,Afghanistan,100
+01-01-03,Colombia,98
+01-01-03,Russia,76
+01-01-03,Algeria,75
+01-01-03,West Bank and Gaza Strip,49
+01-01-03,France,34
+01-01-03,Israel,34
+01-01-03,United States,33
+01-01-03,Uganda,30
+01-01-03,Pakistan,29
+01-01-03,United Kingdom,23
+01-01-03,Spain,21
+01-01-03,Turkey,19
+01-01-03,Burundi,18
+01-01-03,Indonesia,18
+01-01-03,Italy,15
+01-01-03,Nepal,15
+01-01-04,Iraq,323
+01-01-04,India,108
+01-01-04,Afghanistan,88
+01-01-04,Algeria,67
+01-01-04,Pakistan,67
+01-01-04,Nepal,62
+01-01-04,Russia,44
+01-01-04,Thailand,44
+01-01-04,Colombia,37
+01-01-04,West Bank and Gaza Strip,35
+01-01-04,Sri Lanka,33
+01-01-04,Philippines,32
+01-01-04,Spain,31
+01-01-04,Turkey,27
+01-01-04,Israel,18
+01-01-04,Indonesia,17
+01-01-04,Saudi Arabia,17
+01-01-04,Bangladesh,11
+01-01-04,France,11
+01-01-04,Uganda,10
+01-01-05,Iraq,617
+01-01-05,Afghanistan,155
+01-01-05,Thailand,155
+01-01-05,India,146
+01-01-05,Sri Lanka,133
+01-01-05,Algeria,104
+01-01-05,Pakistan,77
+01-01-05,Nepal,70
+01-01-05,Russia,64
+01-01-05,West Bank and Gaza Strip,53
+01-01-05,Colombia,42
+01-01-05,Turkey,41
+01-01-05,France,33
+01-01-05,United Kingdom,29
+01-01-05,Israel,28
+01-01-05,Philippines,25
+01-01-05,Spain,24
+01-01-05,Bangladesh,23
+01-01-05,United States,21
+01-01-05,Lebanon,17
+01-01-06,Iraq,837
+01-01-06,Afghanistan,283
+01-01-06,Sri Lanka,217
+01-01-06,Thailand,202
+01-01-06,India,167
+01-01-06,Pakistan,164
+01-01-06,Algeria,152
+01-01-06,Nepal,83
+01-01-06,Israel,79
+01-01-06,Philippines,58
+01-01-06,Russia,56
+01-01-06,Colombia,43
+01-01-06,Turkey,43
+01-01-06,Nigeria,37
+01-01-06,West Bank and Gaza Strip,37
+01-01-06,France,34
+01-01-06,Sudan,24
+01-01-06,Bangladesh,23
+01-01-06,Greece,23
+01-01-06,Spain,23
+01-01-07,Iraq,1046
+01-01-07,Afghanistan,342
+01-01-07,Thailand,293
+01-01-07,Pakistan,260
+01-01-07,Somalia,156
+01-01-07,India,149
+01-01-07,Sri Lanka,132
+01-01-07,Algeria,124
+01-01-07,West Bank and Gaza Strip,92
+01-01-07,Nepal,90
+01-01-07,Philippines,65
+01-01-07,Nigeria,61
+01-01-07,Russia,51
+01-01-07,Israel,49
+01-01-07,Colombia,30
+01-01-07,Turkey,29
+01-01-07,Sudan,23
+01-01-07,United Kingdom,20
+01-01-07,Lebanon,18
+01-01-07,France,16
+01-01-08,Iraq,1106
+01-01-08,Pakistan,568
+01-01-08,India,534
+01-01-08,Afghanistan,414
+01-01-08,Philippines,276
+01-01-08,Thailand,200
+01-01-08,Somalia,172
+01-01-08,Russia,170
+01-01-08,Colombia,133
+01-01-08,Israel,129
+01-01-08,Nepal,120
+01-01-08,Algeria,107
+01-01-08,Sri Lanka,100
+01-01-08,Nigeria,76
+01-01-08,West Bank and Gaza Strip,68
+01-01-08,Lebanon,58
+01-01-08,Greece,53
+01-01-08,United Kingdom,39
+01-01-08,Spain,37
+01-01-08,Georgia,33
+01-01-09,Iraq,1137
+01-01-09,India,672
+01-01-09,Pakistan,667
+01-01-09,Afghanistan,503
+01-01-09,Thailand,298
+01-01-09,Philippines,229
+01-01-09,Russia,152
+01-01-09,Colombia,139
+01-01-09,Somalia,122
+01-01-09,Greece,115
+01-01-09,Algeria,108
+01-01-09,Democratic Republic of the Congo,54
+01-01-09,Nigeria,42
+01-01-09,Nepal,39
+01-01-09,Sri Lanka,37
+01-01-09,Israel,36
+01-01-09,Bangladesh,27
+01-01-09,Sudan,26
+01-01-09,Georgia,25
+01-01-09,United Kingdom,23
+01-01-10,Iraq,1179
+01-01-10,Pakistan,713
+01-01-10,India,663
+01-01-10,Afghanistan,542
+01-01-10,Thailand,253
+01-01-10,Russia,251
+01-01-10,Philippines,205
+01-01-10,Colombia,136
+01-01-10,Somalia,130
+01-01-10,Yemen,112
+01-01-10,Algeria,100
+01-01-10,Nigeria,63
+01-01-10,United Kingdom,57
+01-01-10,Greece,49
+01-01-10,Nepal,38
+01-01-10,Burundi,29
+01-01-10,Sudan,28
+01-01-10,Bangladesh,22
+01-01-10,Turkey,20
+01-01-10,Democratic Republic of the Congo,18
+01-01-11,Iraq,1308
+01-01-11,Pakistan,1012
+01-01-11,India,645
+01-01-11,Afghanistan,421
+01-01-11,Russia,188
+01-01-11,Somalia,185
+01-01-11,Thailand,182
+01-01-11,Nigeria,175
+01-01-11,Philippines,151
+01-01-11,Yemen,118
+01-01-11,Colombia,94
+01-01-11,Israel,51
+01-01-11,Turkey,51
+01-01-11,Syria,49
+01-01-11,United Kingdom,47
+01-01-11,Nepal,46
+01-01-11,Kenya,42
+01-01-11,Sudan,38
+01-01-11,Indonesia,21
+01-01-11,West Bank and Gaza Strip,20
+01-01-12,Pakistan,1654
+01-01-12,Afghanistan,1469
+01-01-12,Iraq,1437
+01-01-12,Nigeria,616
+01-01-12,India,613
+01-01-12,Somalia,325
+01-01-12,Yemen,312
+01-01-12,Thailand,280
+01-01-12,Philippines,249
+01-01-12,Turkey,188
+01-01-12,Syria,180
+01-01-12,Russia,151
+01-01-12,Colombia,115
+01-01-12,Kenya,80
+01-01-12,France,66
+01-01-12,Israel,65
+01-01-12,Libya,57
+01-01-12,United Kingdom,55
+01-01-12,Egypt,49
+01-01-12,Nepal,46
+01-01-13,Iraq,2852
+01-01-13,Pakistan,2214
+01-01-13,Afghanistan,1443
+01-01-13,India,694
+01-01-13,Philippines,651
+01-01-13,Thailand,472
+01-01-13,Yemen,425
+01-01-13,Nigeria,347
+01-01-13,Somalia,342
+01-01-13,Egypt,321
+01-01-13,Libya,291
+01-01-13,Syria,285
+01-01-13,Colombia,150
+01-01-13,Russia,145
+01-01-13,Bangladesh,139
+01-01-13,United Kingdom,137
+01-01-13,Lebanon,121
+01-01-13,Nepal,104
+01-01-13,Kenya,80
+01-01-13,West Bank and Gaza Strip,64
+01-01-14,Iraq,3934
+01-01-14,Pakistan,2151
+01-01-14,Afghanistan,1824
+01-01-14,Ukraine,895
+01-01-14,Somalia,872
+01-01-14,India,860
+01-01-14,Yemen,763
+01-01-14,Libya,729
+01-01-14,Nigeria,714
+01-01-14,Philippines,597
+01-01-14,Thailand,423
+01-01-14,Egypt,354
+01-01-14,Syria,331
+01-01-14,Israel,293
+01-01-14,Colombia,231
+01-01-14,Lebanon,205
+01-01-14,Sudan,157
+01-01-14,West Bank and Gaza Strip,133
+01-01-14,Bangladesh,130
+01-01-14,Kenya,115
+01-01-15,Iraq,2751
+01-01-15,Afghanistan,1928
+01-01-15,Pakistan,1243
+01-01-15,India,885
+01-01-15,Philippines,721
+01-01-15,Yemen,664
+01-01-15,Egypt,647
+01-01-15,Nigeria,639
+01-01-15,Ukraine,638
+01-01-15,Libya,543
+01-01-15,Syria,491
+01-01-15,Bangladesh,469
+01-01-15,Turkey,424
+01-01-15,Somalia,422
+01-01-15,Thailand,278
+01-01-15,West Bank and Gaza Strip,246
+01-01-15,Sudan,158
+01-01-15,Democratic Republic of the Congo,143
+01-01-15,Colombia,136
+01-01-15,Mali,121
+01-01-16,Iraq,3383
+01-01-16,Afghanistan,1617
+01-01-16,India,1026
+01-01-16,Pakistan,864
+01-01-16,Philippines,632
+01-01-16,Somalia,602
+01-01-16,Turkey,544
+01-01-16,Nigeria,534
+01-01-16,Yemen,525
+01-01-16,Syria,473
+01-01-16,Libya,422
+01-01-16,Egypt,376
+01-01-16,Thailand,329
+01-01-16,Sudan,173
+01-01-16,Democratic Republic of the Congo,169
+01-01-16,West Bank and Gaza Strip,157
+01-01-16,Saudi Arabia,124
+01-01-16,Colombia,110
+01-01-16,United Kingdom,104
+01-01-16,Mali,100
+01-01-17,Iraq,2503
+01-01-17,Afghanistan,1414
+01-01-17,India,967
+01-01-17,Pakistan,719
+01-01-17,Philippines,692
+01-01-17,Somalia,615
+01-01-17,Nigeria,485
+01-01-17,Syria,248
+01-01-17,Nepal,247
+01-01-17,Yemen,227
+01-01-17,Egypt,225
+01-01-17,Libya,191
+01-01-17,Turkey,181
+01-01-17,Thailand,179
+01-01-17,Democratic Republic of the Congo,143
+01-01-17,Mali,142
+01-01-17,United Kingdom,123
+01-01-17,Colombia,119
+01-01-17,Myanmar,116
+01-01-17,Cameroon,110
+01-01-18,Afghanistan,1776
+01-01-18,Iraq,1362
+01-01-18,India,888
+01-01-18,Nigeria,645
+01-01-18,Philippines,601
+01-01-18,Somalia,527
+01-01-18,Pakistan,480
+01-01-18,Yemen,325
+01-01-18,Cameroon,235
+01-01-18,Syria,232
+01-01-18,Colombia,205
+01-01-18,Thailand,182
+01-01-18,Libya,166
+01-01-18,Mali,164
+01-01-18,Democratic Republic of the Congo,163
+01-01-18,West Bank and Gaza Strip,117
+01-01-18,United Kingdom,100
+01-01-18,Nepal,99
+01-01-18,Turkey,94
+01-01-18,Saudi Arabia,92
