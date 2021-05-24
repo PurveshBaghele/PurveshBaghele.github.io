@@ -10,6 +10,8 @@ $(window).load(function() {
     return false;
 });
 
+document.body.style.zoom="90%";
+
 $(document).ready(function() {
     $('#header_wrapper').scrollToFixed();
     $('.res-nav_click').click(function() {
